@@ -20,7 +20,6 @@
     </div>
 <header>
     <div class="section" id="projects">
-        <h2>Proyek</h2>
         <div class="project">
             <div class="project-item">
         <h3>Riwayat Pendidikan</h3>
