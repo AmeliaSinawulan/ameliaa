@@ -25,10 +25,10 @@
         <div class="project">
             <div class="project-item">
         <h3>Riwayat Pendidikan</h3>
-                <p>2013-2014 TK Al- karomah
-2014-2019 SD 9 KOTA SERANG 
-2019-2022 SMP 13 KOTA SERANG 
-2022-2024 SMA NEGERI 3 KOTA SERANG</p>
+                <p>2013-2014 TK Al- karomah</p>
+<p>2014-2019 SD 9 KOTA SERANG</p>
+<p>2019-2022 SMP 13 KOTA SERANG</p>
+<p>2022-2024 SMA NEGERI 3 KOTASERANG</p>
             </div>
             <div class="project-item">
         <h3>Proyek 2</h3>
