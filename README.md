@@ -31,7 +31,7 @@
 <p>2022-2024 SMA NEGERI 3 KOTASERANG</p>
             </div>
             <div class="project-item">
-        <h3>Proyek 2</h3>
+        <h3>Proyek 2Deskripsi singkat tentang proyek 2.</h3>
                 <p>Deskripsi singkat tentang proyek 2.</p>
             </div>
             <div class="project-item">
