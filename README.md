@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Portfolio Saya</title>
   
 </head>
 <body>
@@ -29,14 +28,6 @@
 <p>2014-2019 SD 9 KOTA SERANG</p>
 <p>2019-2022 SMP 13 KOTA SERANG</p>
 <p>2022-2024 SMA NEGERI 3 KOTASERANG</p>
-            </div>
-            <div class="project-item">
-        <h3>Proyek 2Deskripsi singkat tentang proyek 2.</h3>
-                <p>Deskripsi singkat tentang proyek 2.</p>
-            </div>
-            <div class="project-item">
-                <h3>Proyek 3</h3>
-                <p>Deskripsi singkat tentang proyek 3.</p>
             </div>
         </div>
     </div>
