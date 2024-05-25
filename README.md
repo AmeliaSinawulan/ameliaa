@@ -32,8 +32,6 @@
     </div>
 </header>
 <header>
-        
-    </div>
 </header>
 
 </body>
